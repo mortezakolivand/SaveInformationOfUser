@@ -1,0 +1,13 @@
+com/mk/testAssignment/dto/UserDTO.class
+com/mk/testAssignment/servic/impl/UserServiceImpl.class
+com/mk/testAssignment/servic/UserService.class
+com/mk/testAssignment/dto/SectorDTO.class
+com/mk/testAssignment/servic/SectorService.class
+com/mk/testAssignment/repository/UserRepository.class
+com/mk/testAssignment/domain/Sector.class
+com/mk/testAssignment/repository/SectorRepository.class
+com/mk/testAssignment/domain/User.class
+com/mk/testAssignment/servic/impl/SectorServiceImpl.class
+com/mk/testAssignment/TestAssignmentApplication$DemoCommandLineRunner.class
+com/mk/testAssignment/TestAssignmentApplication.class
+com/mk/testAssignment/controller/UserSectorController.class
